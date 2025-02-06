@@ -53,6 +53,19 @@ Run the Application:
 streamlit run streamlit_app.py
 Open the provided local URL in your browser to access the app.
 
+Deployment
+
+The application is live and can be accessed at: [
+(https://ai-predictive-methods-for-credit-underwriting-csu8gym5fctrsyru.streamlit.app/)]
+To deploy the app on Streamlit Cloud:
+
+To deploy the app on Streamlit Cloud:
+
+Push the project to GitHub.
+Connect your GitHub repository to Streamlit Cloud.
+Ensure requirements.txt is present for dependency installation.
+Deploy and access your app via the Streamlit Cloud link.
+
 File Structure
 
 ├── streamlit_app.py  # Main application file
